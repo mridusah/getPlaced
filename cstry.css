@@ -1,0 +1,28 @@
+#name, #email, #phone, #add, #github,
+#college, #course, #class12, #marks12,
+#marks10, #class10{
+  margin-left: 8px;  
+  background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+}
+
+#comp{
+  margin-left: 8px;  
+  background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+}
+
+#role, #dur, #cgpa, #board
+{
+  margin-left: 33px;  
+  background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+}
+
+p.details{
+  display: inline;
+  margin-right: 60px;
+}
